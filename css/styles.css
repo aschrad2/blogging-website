@@ -5,7 +5,8 @@ body {
 .blog-post {
   float: ;
   width: 500px;
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border: 2px solid green;
   padding: 4px;
   background-color: orange;
