@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+}
+
+.blog-post {
+  float: ;
+  width: 500px;
+  margin: 20px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+  margin-left: 33%;
+  padding: 0px;
+}
